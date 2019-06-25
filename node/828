@@ -12,54 +12,46 @@
 <head profile="http://www.w3.org/1999/xhtml/vocab">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 <meta charset="utf-8" />
-<link rel="shortcut icon" href="https://www.i-alarmsysteme.at/sites/default/files/favicon_1.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortcut icon" href="https://www.i-alarmsysteme.de/sites/default/files/favicon_1.ico" type="image/vnd.microsoft.icon" />
 <meta name="format-detection" content="telephone=no" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <link href="https://fonts.googleapis.com/css?family=Lato:400,700,900|Open+Sans:300,400,700" rel="stylesheet" />
 <meta name="description" content="WÄHLGERÄTE ZUR ALARMÜBERTRAGUNG UND STEUERUNG" />
 <meta name="generator" content="Drupal 7 (http://drupal.org)" />
-<link rel="canonical" href="https://www.i-alarmsysteme.at/produkte/info-folder/wahlgerate-und-kommunikationsmodule" />
-<link rel="shortlink" href="https://www.i-alarmsysteme.at/node/828" />
-  <title>Wählgeräte und Kommunikationsmodule | i-Alarmsysteme - Österreich</title>
+<link rel="canonical" href="https://www.i-alarmsysteme.de/produkte/info-folder/wahlgerate-und-kommunikationsmodule" />
+<link rel="shortlink" href="https://www.i-alarmsysteme.de/node/828" />
+  <title>Wählgeräte und Kommunikationsmodule | i-Alarmsysteme - Deutschland</title>
   <script>if((window.devicePixelRatio===undefined?1:window.devicePixelRatio)>1)document.cookie='HTTP_IS_RETINA=1;path=/';</script>
   <style>
-@import url("https://www.i-alarmsysteme.at/sites/all/modules/contrib/colorbox/styles/default/colorbox_style.css?ps9a81");
-@import url("https://www.i-alarmsysteme.at/sites/all/modules/contrib/ctools/css/ctools.css?ps9a81");
-@import url("https://www.i-alarmsysteme.at/sites/all/modules/eu_cookie_compliance/css/eu_cookie_compliance.css?ps9a81");
+@import url("https://www.i-alarmsysteme.de/sites/all/modules/contrib/colorbox/styles/default/colorbox_style.css?ps9a81");
+@import url("https://www.i-alarmsysteme.de/sites/all/modules/contrib/ctools/css/ctools.css?ps9a81");
+@import url("https://www.i-alarmsysteme.de/sites/all/modules/eu_cookie_compliance/css/eu_cookie_compliance.css?ps9a81");
 </style>
 <style>#sliding-popup.sliding-popup-bottom{background:#E30613;}#sliding-popup .popup-content #popup-text h1,#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text h3,#sliding-popup .popup-content #popup-text p{color:#fff !important;}
 </style>
 <style>
-@import url("https://www.i-alarmsysteme.at/modules/system/system.base.css?ps9a81");
-@import url("https://www.i-alarmsysteme.at/modules/system/system.menus.css?ps9a81");
-@import url("https://www.i-alarmsysteme.at/modules/system/system.messages.css?ps9a81");
-@import url("https://www.i-alarmsysteme.at/modules/system/system.theme.css?ps9a81");
-@import url("https://www.i-alarmsysteme.at/sites/all/modules/contrib/date/date_api/date.css?ps9a81");
-@import url("https://www.i-alarmsysteme.at/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?ps9a81");
-@import url("https://www.i-alarmsysteme.at/sites/all/modules/contrib/fences/field.css?ps9a81");
-@import url("https://www.i-alarmsysteme.at/modules/node/node.css?ps9a81");
-@import url("https://www.i-alarmsysteme.at/modules/search/search.css?ps9a81");
-@import url("https://www.i-alarmsysteme.at/sites/all/modules/contrib/search_krumo/search_krumo.css?ps9a81");
-@import url("https://www.i-alarmsysteme.at/modules/user/user.css?ps9a81");
-@import url("https://www.i-alarmsysteme.at/sites/all/modules/contrib/youtube/css/youtube.css?ps9a81");
-@import url("https://www.i-alarmsysteme.at/sites/all/modules/contrib/views/css/views.css?ps9a81");
-@import url("https://www.i-alarmsysteme.at/sites/all/modules/contrib/ckeditor/css/ckeditor.css?ps9a81");
-@import url("https://www.i-alarmsysteme.at/sites/all/libraries/font-awesome/css/font-awesome.min.css?ps9a81");
-@import url("https://www.i-alarmsysteme.at/sites/default/files/less/W_SMrKiPmuM1CUcErU28E-H2dvJHwZsrG0FYKprHbfc/sites/all/themes/i-alarmsysteme/less/scaffolding.XcVzbo5GbrB4v7QVES377fts6uudS0o0YbaMpBamvPg.css?ps9a81");
+@import url("https://www.i-alarmsysteme.de/modules/system/system.base.css?ps9a81");
+@import url("https://www.i-alarmsysteme.de/modules/system/system.menus.css?ps9a81");
+@import url("https://www.i-alarmsysteme.de/modules/system/system.messages.css?ps9a81");
+@import url("https://www.i-alarmsysteme.de/modules/system/system.theme.css?ps9a81");
+@import url("https://www.i-alarmsysteme.de/sites/all/modules/contrib/date/date_api/date.css?ps9a81");
+@import url("https://www.i-alarmsysteme.de/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?ps9a81");
+@import url("https://www.i-alarmsysteme.de/sites/all/modules/contrib/fences/field.css?ps9a81");
+@import url("https://www.i-alarmsysteme.de/modules/node/node.css?ps9a81");
+@import url("https://www.i-alarmsysteme.de/modules/search/search.css?ps9a81");
+@import url("https://www.i-alarmsysteme.de/sites/all/modules/contrib/search_krumo/search_krumo.css?ps9a81");
+@import url("https://www.i-alarmsysteme.de/modules/user/user.css?ps9a81");
+@import url("https://www.i-alarmsysteme.de/sites/all/modules/contrib/youtube/css/youtube.css?ps9a81");
+@import url("https://www.i-alarmsysteme.de/sites/all/modules/contrib/views/css/views.css?ps9a81");
+@import url("https://www.i-alarmsysteme.de/sites/all/modules/contrib/ckeditor/css/ckeditor.css?ps9a81");
+@import url("https://www.i-alarmsysteme.de/sites/all/libraries/font-awesome/css/font-awesome.min.css?ps9a81");
+@import url("https://www.i-alarmsysteme.de/sites/default/files/less/W_SMrKiPmuM1CUcErU28E-H2dvJHwZsrG0FYKprHbfc/sites/all/themes/i-alarmsysteme/less/scaffolding.XcVzbo5GbrB4v7QVES377fts6uudS0o0YbaMpBamvPg.css?ps9a81");
 </style>
   <script src="/sites/all/libraries/modernizr/modernizr.min.js"></script>  <!--[if lt IE 9]>
     <script src="/sites/all/libraries/respondjs/dest/respond.min.js"></script>  <![endif]-->
 </head>
-<body class="html not-front not-logged-in no-sidebars page-node page-node--828 node-type-infofolder-article domain-i-alarmsysteme-roromedia-at i18n-at" >
-  <!-- Google Tag Manager -->
-
-        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N93P9H" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-
-        })(window,document,'script','dataLayer','GTM-N93P9H');</script>
-
-        <!-- End Google Tag Manager -->  <nav class="skiplinks" role="navigation">
+<body class="html not-front not-logged-in no-sidebars page-node page-node--828 node-type-infofolder-article domain-i-alarmsysteme-de-roromedia-at i18n-at" >
+    <nav class="skiplinks" role="navigation">
     <ul>
       <li><a id="skiplinks__skiplink--main" href="#main-content" class="skiplinks__skiplink visuallyhidden focusable">Direkt zum Inhalt</a></li>
     </ul>
@@ -70,7 +62,7 @@
               <div class="grid__item--12 grid__item--s--2">
           <div class="wrap wrap--item">
             <a id="logo--main" class="logo logo--main a--block" href="/" title="Startseite" rel="home">
-              &nbsp;<img class="logo__img logo--main__img" src="https://www.i-alarmsysteme.at/sites/default/files/i_alarmsysteme_wappen.png" alt="Logo">
+              &nbsp;<img class="logo__img logo--main__img" src="https://www.i-alarmsysteme.de/sites/default/files/i_alarmsysteme_wappen.png" alt="Logo">
             </a>
           </div>
         </div>
@@ -80,7 +72,7 @@
             <div id="region--navigation" class="region region--navigation">
                   <div id="block--1" class="block block--block block--1">
       
-  <div><a id="logo--main" class="logo logo--main a--block" href="https://www.i-alarmsysteme.at" title="Startseite" rel="home">
+  <div><a id="logo--main" class="logo logo--main a--block" href="https://www.i-alarmsysteme.de" title="Startseite" rel="home">
 <img alt="Logo" class="font_logo__img" src="/sites/default/files/i_alarmsysteme_logo.png" /></a></div>
 </div>
 <div id="block--19" class="block block--block search--trigger block--19">
@@ -111,7 +103,7 @@
             <aside id="region--sidebar1" class="region region--sidebar region--sidebar1">
                   <nav id="block--menu-produkte" class="block block--menu block--menu-produkte" role="navigation">
       
-  <ul class="menu clearfix"><li class="first last menu__item--expanded active-trail menu__item block--menu-produkte__menu__item menu__item--level1 block--menu-produkte__menu__item--level1 menu__item--755" id="menu__item--755"><a href="/produkte" class="active-trail menu__link block--menu-produkte__menu__link menu__link--level1 block--menu-produkte__menu__link--level1 menu__link--755" id="menu__link--755">Produkte</a><ul class="menu clearfix"><li class="first menu__item block--menu-produkte__menu__item menu__item--level2 block--menu-produkte__menu__item--level2 menu__item--738" id="menu__item--738"><a href="http://www.i-alarmsysteme.at/shop/index.php" target="_blank" id="menu__link--738" class="menu__link block--menu-produkte__menu__link menu__link--level2 block--menu-produkte__menu__link--level2 menu__link--738">Produkte (Shop)</a></li><li class="menu__item--expanded active-trail menu__item block--menu-produkte__menu__item menu__item--level2 block--menu-produkte__menu__item--level2 menu__item--739" id="menu__item--739"><a href="/produkte/info-folder" class="active-trail menu__link block--menu-produkte__menu__link menu__link--level2 block--menu-produkte__menu__link--level2 menu__link--739" id="menu__link--739">Alarmsysteme Infos und Broschüren</a><ul class="menu clearfix"><li class="first menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1114" id="menu__item--1114"><a href="/produkte/info-folder/jablotron-100" id="menu__link--1114" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1114">Jablotron 100</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1113" id="menu__item--1113"><a href="/produkte/info-folder/jablotron-oasis" id="menu__link--1113" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1113">Jablotron OASiS</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--2445" id="menu__item--2445"><a href="/produkte/info-folder/amc-protect" id="menu__link--2445" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--2445">AMC Protect</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--2456" id="menu__item--2456"><a href="/produkte/info-folder/ats-advanced-und-nx" id="menu__link--2456" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--2456">ATS Advanced und NX</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1144" id="menu__item--1144"><a href="/produkte/info-folder/satel-integra" id="menu__link--1144" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1144">SATEL INTEGRA</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1145" id="menu__item--1145"><a href="/produkte/info-folder/satel-perfecta" id="menu__link--1145" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1145">SATEL PERFECTA</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1117" id="menu__item--1117"><a href="/produkte/info-folder/i-style-i-on30reu-und-40heu" id="menu__link--1117" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1117">i-on Style + i-on30REU und -40HEU</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1115" id="menu__item--1115"><a href="/produkte/info-folder/sirenen-und-signalgeber" id="menu__link--1115" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1115">Sirenen und Signalgeber</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--2022" id="menu__item--2022"><a href="/produkte/info-folder/optex-innen-und-aussenuberwachung" id="menu__link--2022" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--2022">OPTEX Innen- und Außenüberwachung</a></li><li class="last active-trail active-trail menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1253" id="menu__item--1253"><a href="/produkte/info-folder/wahlgerate-und-kommunikationsmodule" class="active-trail menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1253 active" id="menu__link--1253">Wählgeräte und Kommunikationsmodule</a></li></ul></li><li class="menu__item--expanded menu__item block--menu-produkte__menu__item menu__item--level2 block--menu-produkte__menu__item--level2 menu__item--740" id="menu__item--740"><a href="/produkte/videowelt-ubersicht" id="menu__link--740" class="menu__link block--menu-produkte__menu__link menu__link--level2 block--menu-produkte__menu__link--level2 menu__link--740">Videowelt - Übersicht</a><ul class="menu clearfix"><li class="first menu__item--expanded menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--799" id="menu__item--799"><a href="/produkte/videowelt/kataloge-produktinfos" id="menu__link--799" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--799">Kataloge &amp; Produktinfos</a><ul class="menu clearfix"><li class="first menu__item block--menu-produkte__menu__item menu__item--level4 block--menu-produkte__menu__item--level4 menu__item--1126" id="menu__item--1126"><a href="/produkte/videowelt/video-content-analyse-dahua-funktionsubersicht" id="menu__link--1126" class="menu__link block--menu-produkte__menu__link menu__link--level4 block--menu-produkte__menu__link--level4 menu__link--1126">DAHUA - Funktionsübersicht</a></li><li class="last menu__item block--menu-produkte__menu__item menu__item--level4 block--menu-produkte__menu__item--level4 menu__item--1143" id="menu__item--1143"><a href="/produkte/videowelt/bauformen-von-kameras" id="menu__link--1143" class="menu__link block--menu-produkte__menu__link menu__link--level4 block--menu-produkte__menu__link--level4 menu__link--1143">Bauformen von Kameras</a></li></ul></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1127" id="menu__item--1127"><a href="/produkte/videowelt/ip-hdcvihdtvi-ubersicht" id="menu__link--1127" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1127">iP - HDCVi - Übersicht</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1148" id="menu__item--1148"><a href="/produkte/videowelt/apps" id="menu__link--1148" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1148">Apps</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1232" id="menu__item--1232"><a href="/produkte/videowelt/funk-video-losung" id="menu__link--1232" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1232">Funk-Video-Lösung</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1150" id="menu__item--1150"><a href="/produkte/videowelt/demo-videos" id="menu__link--1150" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1150">Demo-Videos</a></li><li class="last collapsed menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1281" id="menu__item--1281"><a href="/produkte/videowelt/nutzliches" id="menu__link--1281" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1281">Nützliches</a></li></ul></li><li class="menu__item block--menu-produkte__menu__item menu__item--level2 block--menu-produkte__menu__item--level2 menu__item--1276" id="menu__item--1276"><a href="/produkte/video-gegensprechanlagen" id="menu__link--1276" class="menu__link block--menu-produkte__menu__link menu__link--level2 block--menu-produkte__menu__link--level2 menu__link--1276">Video-Gegensprechanlagen</a></li><li class="menu__item--expanded menu__item block--menu-produkte__menu__item menu__item--level2 block--menu-produkte__menu__item--level2 menu__item--1242" id="menu__item--1242"><a href="/produkte/brand-und-gefahrenmelder-standalone" id="menu__link--1242" class="menu__link block--menu-produkte__menu__link menu__link--level2 block--menu-produkte__menu__link--level2 menu__link--1242">Brand- und Gefahrenmelder</a><ul class="menu clearfix"><li class="first menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1243" id="menu__item--1243"><a href="/produkte/brand-und-gefahrenmelder-standalone/rauchmelder-standalone" id="menu__link--1243" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1243">Rauchmelder Standalone</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1244" id="menu__item--1244"><a href="/produkte/brand-und-gefahrenmelder-standalone/hitzemelder-standalone" id="menu__link--1244" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1244">Hitzemelder Standalone</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1245" id="menu__item--1245"><a href="/produkte/brand-und-gefahrenmelder-standalone/alarmierungssystem-fur-horgeschadigte" id="menu__link--1245" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1245">Alarmierungssystem für Hörgeschädigte</a></li><li class="last menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1246" id="menu__item--1246"><a href="/produkte/brand-und-gefahrenmelder-standalone/gas-und-kohlenmonoxid-melder-standalone" id="menu__link--1246" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1246">Gas- und Kohlenmonoxid-Melder Standalone</a></li></ul></li><li class="last menu__item block--menu-produkte__menu__item menu__item--level2 block--menu-produkte__menu__item--level2 menu__item--1247" id="menu__item--1247"><a href="/produkte/gps-car-tracking/gps-car-tracking-system" id="menu__link--1247" class="menu__link block--menu-produkte__menu__link menu__link--level2 block--menu-produkte__menu__link--level2 menu__link--1247">GPS Car-Tracking-System</a></li></ul></li></ul></nav>
+  <ul class="menu clearfix"><li class="first last menu__item--expanded active-trail menu__item block--menu-produkte__menu__item menu__item--level1 block--menu-produkte__menu__item--level1 menu__item--755" id="menu__item--755"><a href="/produkte" class="active-trail menu__link block--menu-produkte__menu__link menu__link--level1 block--menu-produkte__menu__link--level1 menu__link--755" id="menu__link--755">Produkte</a><ul class="menu clearfix"><li class="first menu__item block--menu-produkte__menu__item menu__item--level2 block--menu-produkte__menu__item--level2 menu__item--738" id="menu__item--738"><a href="http://www.i-alarmsysteme.de/shop/index.php" target="_blank" id="menu__link--738" class="menu__link block--menu-produkte__menu__link menu__link--level2 block--menu-produkte__menu__link--level2 menu__link--738">Produkte (Shop)</a></li><li class="menu__item--expanded active-trail menu__item block--menu-produkte__menu__item menu__item--level2 block--menu-produkte__menu__item--level2 menu__item--739" id="menu__item--739"><a href="/produkte/info-folder" class="active-trail menu__link block--menu-produkte__menu__link menu__link--level2 block--menu-produkte__menu__link--level2 menu__link--739" id="menu__link--739">Alarmsysteme Infos und Broschüren</a><ul class="menu clearfix"><li class="first menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1114" id="menu__item--1114"><a href="/produkte/info-folder/jablotron-100" id="menu__link--1114" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1114">Jablotron 100</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1113" id="menu__item--1113"><a href="/produkte/info-folder/jablotron-oasis" id="menu__link--1113" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1113">Jablotron OASiS</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--2445" id="menu__item--2445"><a href="/produkte/info-folder/amc-protect" id="menu__link--2445" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--2445">AMC Protect</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--2456" id="menu__item--2456"><a href="/produkte/info-folder/ats-advanced-und-nx" id="menu__link--2456" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--2456">ATS Advanced und NX</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1144" id="menu__item--1144"><a href="/produkte/info-folder/satel-integra" id="menu__link--1144" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1144">SATEL INTEGRA</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1145" id="menu__item--1145"><a href="/produkte/info-folder/satel-perfecta" id="menu__link--1145" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1145">SATEL PERFECTA</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1117" id="menu__item--1117"><a href="/produkte/info-folder/i-style-i-on30reu-und-40heu" id="menu__link--1117" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1117">i-on Style + i-on30REU und -40HEU</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1115" id="menu__item--1115"><a href="/produkte/info-folder/sirenen-und-signalgeber" id="menu__link--1115" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1115">Sirenen und Signalgeber</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--2022" id="menu__item--2022"><a href="/produkte/info-folder/optex-innen-und-aussenuberwachung" id="menu__link--2022" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--2022">OPTEX Innen- und Außenüberwachung</a></li><li class="last active-trail active-trail menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1253" id="menu__item--1253"><a href="/produkte/info-folder/wahlgerate-und-kommunikationsmodule" class="active-trail menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1253 active" id="menu__link--1253">Wählgeräte und Kommunikationsmodule</a></li></ul></li><li class="menu__item--expanded menu__item block--menu-produkte__menu__item menu__item--level2 block--menu-produkte__menu__item--level2 menu__item--740" id="menu__item--740"><a href="/produkte/videowelt-ubersicht" id="menu__link--740" class="menu__link block--menu-produkte__menu__link menu__link--level2 block--menu-produkte__menu__link--level2 menu__link--740">Videowelt - Übersicht</a><ul class="menu clearfix"><li class="first menu__item--expanded menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--799" id="menu__item--799"><a href="/produkte/videowelt/kataloge-produktinfos" id="menu__link--799" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--799">Kataloge &amp; Produktinfos</a><ul class="menu clearfix"><li class="first menu__item block--menu-produkte__menu__item menu__item--level4 block--menu-produkte__menu__item--level4 menu__item--1126" id="menu__item--1126"><a href="/produkte/videowelt/video-content-analyse-dahua-funktionsubersicht" id="menu__link--1126" class="menu__link block--menu-produkte__menu__link menu__link--level4 block--menu-produkte__menu__link--level4 menu__link--1126">DAHUA - Funktionsübersicht</a></li><li class="last menu__item block--menu-produkte__menu__item menu__item--level4 block--menu-produkte__menu__item--level4 menu__item--1143" id="menu__item--1143"><a href="/produkte/videowelt/bauformen-von-kameras" id="menu__link--1143" class="menu__link block--menu-produkte__menu__link menu__link--level4 block--menu-produkte__menu__link--level4 menu__link--1143">Bauformen von Kameras</a></li></ul></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1127" id="menu__item--1127"><a href="/produkte/videowelt/ip-hdcvihdtvi-ubersicht" id="menu__link--1127" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1127">iP - HDCVi - Übersicht</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1148" id="menu__item--1148"><a href="/produkte/videowelt/apps" id="menu__link--1148" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1148">Apps</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1232" id="menu__item--1232"><a href="/produkte/videowelt/funk-video-losung" id="menu__link--1232" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1232">Funk-Video-Lösung</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1150" id="menu__item--1150"><a href="/produkte/videowelt/demo-videos" id="menu__link--1150" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1150">Demo-Videos</a></li><li class="last collapsed menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1281" id="menu__item--1281"><a href="/produkte/videowelt/nutzliches" id="menu__link--1281" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1281">Nützliches</a></li></ul></li><li class="menu__item block--menu-produkte__menu__item menu__item--level2 block--menu-produkte__menu__item--level2 menu__item--1276" id="menu__item--1276"><a href="/produkte/video-gegensprechanlagen" id="menu__link--1276" class="menu__link block--menu-produkte__menu__link menu__link--level2 block--menu-produkte__menu__link--level2 menu__link--1276">Video-Gegensprechanlagen</a></li><li class="menu__item--expanded menu__item block--menu-produkte__menu__item menu__item--level2 block--menu-produkte__menu__item--level2 menu__item--1242" id="menu__item--1242"><a href="/produkte/brand-und-gefahrenmelder-standalone" id="menu__link--1242" class="menu__link block--menu-produkte__menu__link menu__link--level2 block--menu-produkte__menu__link--level2 menu__link--1242">Brand- und Gefahrenmelder</a><ul class="menu clearfix"><li class="first menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1243" id="menu__item--1243"><a href="/produkte/brand-und-gefahrenmelder-standalone/rauchmelder-standalone" id="menu__link--1243" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1243">Rauchmelder Standalone</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1244" id="menu__item--1244"><a href="/produkte/brand-und-gefahrenmelder-standalone/hitzemelder-standalone" id="menu__link--1244" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1244">Hitzemelder Standalone</a></li><li class="menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1245" id="menu__item--1245"><a href="/produkte/brand-und-gefahrenmelder-standalone/alarmierungssystem-fur-horgeschadigte" id="menu__link--1245" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1245">Alarmierungssystem für Hörgeschädigte</a></li><li class="last menu__item block--menu-produkte__menu__item menu__item--level3 block--menu-produkte__menu__item--level3 menu__item--1246" id="menu__item--1246"><a href="/produkte/brand-und-gefahrenmelder-standalone/gas-und-kohlenmonoxid-melder-standalone" id="menu__link--1246" class="menu__link block--menu-produkte__menu__link menu__link--level3 block--menu-produkte__menu__link--level3 menu__link--1246">Gas- und Kohlenmonoxid-Melder Standalone</a></li></ul></li><li class="last menu__item block--menu-produkte__menu__item menu__item--level2 block--menu-produkte__menu__item--level2 menu__item--1247" id="menu__item--1247"><a href="/produkte/gps-car-tracking/gps-car-tracking-system" id="menu__link--1247" class="menu__link block--menu-produkte__menu__link menu__link--level2 block--menu-produkte__menu__link--level2 menu__link--1247">GPS Car-Tracking-System</a></li></ul></li></ul></nav>
             </aside>
           </div>
         </div>
@@ -151,7 +143,7 @@
    
 
       <div class="field__content field--l-image-right">
-      <img typeof="foaf:Image" src="https://www.i-alarmsysteme.at/sites/default/files/styles/media_medium_noretina/public/i-alarmsysteme_waehlgeraete_zubehoer_gsm-antenne_verlaengerung.png?itok=8eU7DMEP" width="280" height="280" alt="i-Alarmsysteme Alarmuebertragung Steuerung" title="i-Alarmsysteme Alarmuebertragung Steuerung" />    </div>
+      <img typeof="foaf:Image" src="https://www.i-alarmsysteme.de/sites/default/files/styles/media_medium_noretina/public/i-alarmsysteme_waehlgeraete_zubehoer_gsm-antenne_verlaengerung.png?itok=8eU7DMEP" width="280" height="280" alt="i-Alarmsysteme Alarmuebertragung Steuerung" title="i-Alarmsysteme Alarmuebertragung Steuerung" />    </div>
 
   </div></div><div id="content-block-text-left-image-right-full-group-media-body" class="media__body">
 <div class="field__wrapper field__wrapper--field--l-text-left">
@@ -233,7 +225,7 @@
       <table class="sticky-enabled">
  <thead><tr><th>Anhang</th><th>Größe</th> </tr></thead>
 <tbody>
- <tr class="odd"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="https://www.i-alarmsysteme.at/sites/default/files/i-alarmsysteme_iris_web.pdf" type="application/pdf; length=589168" title="i-alarmsysteme_iris_web.pdf">IRIS IP-Wählgerät</a></span></td><td>575.36 KB</td> </tr>
+ <tr class="odd"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="https://www.i-alarmsysteme.de/sites/default/files/i-alarmsysteme_iris_web.pdf" type="application/pdf; length=589168" title="i-alarmsysteme_iris_web.pdf">IRIS IP-Wählgerät</a></span></td><td>575.36 KB</td> </tr>
 </tbody>
 </table>
     </div>
@@ -265,16 +257,16 @@
   
   
       <div class="view__content view--locations--block-1__content">
-        <div class="view__row view__row--1 view__row--odd view__row--first view__row--last view--locations--block-1__row">
+        <div class="view__row view__row--1 view__row--odd view__row--first view--locations--block-1__row">
       
-  <div class="view__field view__field--title">        <strong class="view__field__content view__field--title__content">i-Alarmsysteme GmbH Österreich</strong>  </div>  
+  <div class="view__field view__field--title">        <strong class="view__field__content view__field--title__content">i-Alarmsysteme GmbH Betriebsstätte Deutschland</strong>  </div>  
           
 <div class="field__wrapper field__wrapper--field--location-street field--node-location--location-street">
   
    
 
       <div class="field__content field--location-street field--node-location--location-street">
-      Technologiestraße 4    </div>
+      An der Horst 10a    </div>
 
   </div>    
           <div class="wrap spacing--bottom--s">
@@ -283,7 +275,7 @@
    
 
       <div class="field__content field--location-postal-code field--node-location--location-postal-code">
-      2722    </div>
+      40885    </div>
 
   </div>
 <div class="field__wrapper field__wrapper--field--location-city spacing--bottom--s field--node-location--location-city">
@@ -291,7 +283,7 @@
    
 
       <div class="field__content field--location-city spacing--bottom--s field--node-location--location-city">
-      Weikersdorf    </div>
+      Ratingen    </div>
 
   </div></div>    
           <div class="wrap"><i class="fa fa-phone"></i> 
@@ -300,16 +292,7 @@
    
 
       <div class="field__content field--location-phone field--node-location--location-phone">
-      +43 (0) 2622 86110-0    </div>
-
-  </div></div>    
-          <div class="wrap"><i class="fa fa-print"></i> 
-<div class="field__wrapper field__wrapper--field--location-fax field--node-location--location-fax">
-  
-   
-
-      <div class="field__content field--location-fax field--node-location--location-fax">
-      +43 (0)2622 86110-15    </div>
+      +49 (0) 2102 564 900-0    </div>
 
   </div></div>    
           <div class="wrap"><i class="fa fa-envelope-o"></i> 
@@ -318,7 +301,54 @@
    
 
       <div class="field__content field--location-email field--node-location--location-email">
-      <a href="mailto:vertrieb@i-alarmsysteme.com ">vertrieb@i-alarmsysteme.com </a>    </div>
+      <a href="mailto:vertrieb@i-alarmsysteme.de">vertrieb@i-alarmsysteme.de</a>    </div>
+
+  </div></div>    </div>
+  <div class="view__row view__row--2 view__row--even view__row--last view--locations--block-1__row">
+      
+  <div class="view__field view__field--title">        <strong class="view__field__content view__field--title__content">i-Alarmsysteme GmbH Büro Berlin</strong>  </div>  
+          
+<div class="field__wrapper field__wrapper--field--location-street field--node-location--location-street">
+  
+   
+
+      <div class="field__content field--location-street field--node-location--location-street">
+      Kleinmachnower Weg 5    </div>
+
+  </div>    
+          <div class="wrap spacing--bottom--s">
+<div class="field__wrapper field__wrapper--field--location-postal-code field--node-location--location-postal-code">
+  
+   
+
+      <div class="field__content field--location-postal-code field--node-location--location-postal-code">
+      14165    </div>
+
+  </div>
+<div class="field__wrapper field__wrapper--field--location-city spacing--bottom--s field--node-location--location-city">
+  
+   
+
+      <div class="field__content field--location-city spacing--bottom--s field--node-location--location-city">
+      Berlin    </div>
+
+  </div></div>    
+          <div class="wrap"><i class="fa fa-phone"></i> 
+<div class="field__wrapper field__wrapper--field--location-phone field--node-location--location-phone">
+  
+   
+
+      <div class="field__content field--location-phone field--node-location--location-phone">
+      +49 (0) 30 700 142 77-0    </div>
+
+  </div></div>    
+          <div class="wrap"><i class="fa fa-envelope-o"></i> 
+<div class="field__wrapper field__wrapper--field--location-email field--node-location--location-email">
+  
+   
+
+      <div class="field__content field--location-email field--node-location--location-email">
+      <a href="mailto:vertrieb@i-alarmsysteme.de">vertrieb@i-alarmsysteme.de</a>    </div>
 
   </div></div>    </div>
     </div>
@@ -370,15 +400,26 @@
   
   
       <div class="view__content view--locations--block-2__content">
-        <div class="view__row view__row--1 view__row--odd view__row--first view__row--last view--locations--block-2__row">
+        <div class="view__row view__row--1 view__row--odd view__row--first view--locations--block-2__row">
       
-          <a href="https://www.i-alarmsysteme.at/kontakt">
+          <a href="https://www.i-alarmsysteme.de/kontakt">
 <div class="field__wrapper field__wrapper--field--location-geolocation field--node-location--location-geolocation">
   
    
 
       <div class="field__content field--location-geolocation field--node-location--location-geolocation">
-      <div><img class="geolocation-googlemaps-static" typeof="foaf:Image" src="//maps.google.com/maps/api/staticmap?sensor=false&amp;zoom=11&amp;size=346x195&amp;format=png8&amp;maptype=roadmap&amp;markers=size%3Amid%7Ccolor%3Ared%7C47.8049272%2C16.167592600000035&amp;key=AIzaSyAKqtm4A6bxkxgwF5e0qYNQPclTeGNqs6k" alt="Geolocation" /></div>    </div>
+      <div><img class="geolocation-googlemaps-static" typeof="foaf:Image" src="//maps.google.com/maps/api/staticmap?sensor=false&amp;zoom=11&amp;size=346x195&amp;format=png8&amp;maptype=roadmap&amp;markers=size%3Amid%7Ccolor%3Ared%7C51.3564%2C6.872190000000046&amp;key=AIzaSyAKqtm4A6bxkxgwF5e0qYNQPclTeGNqs6k" alt="Geolocation" /></div>    </div>
+
+  </div></a>    </div>
+  <div class="view__row view__row--2 view__row--even view__row--last view--locations--block-2__row">
+      
+          <a href="https://www.i-alarmsysteme.de/kontakt">
+<div class="field__wrapper field__wrapper--field--location-geolocation field--node-location--location-geolocation">
+  
+   
+
+      <div class="field__content field--location-geolocation field--node-location--location-geolocation">
+      <div><img class="geolocation-googlemaps-static" typeof="foaf:Image" src="//maps.google.com/maps/api/staticmap?sensor=false&amp;zoom=11&amp;size=346x195&amp;format=png8&amp;maptype=roadmap&amp;markers=size%3Amid%7Ccolor%3Ared%7C52.408713%2C13.26616009999998&amp;key=AIzaSyAKqtm4A6bxkxgwF5e0qYNQPclTeGNqs6k" alt="Geolocation" /></div>    </div>
 
   </div></a>    </div>
     </div>
@@ -411,27 +452,27 @@
       </footer>
     </div>
   </div>
-  <script src="https://www.i-alarmsysteme.at/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
-<script src="https://www.i-alarmsysteme.at/misc/jquery.once.js?v=1.2"></script>
-<script src="https://www.i-alarmsysteme.at/misc/drupal.js?ps9a81"></script>
-<script src="https://www.i-alarmsysteme.at/sites/all/themes/rm_theme/js/console.js?ps9a81"></script>
-<script src="https://www.i-alarmsysteme.at/sites/all/libraries/rc/jquery.rc.js?ps9a81"></script>
-<script src="https://www.i-alarmsysteme.at/sites/all/themes/i-alarmsysteme/js/config.js?ps9a81"></script>
-<script src="https://www.i-alarmsysteme.at/sites/all/themes/rm_theme/js/menu.js?ps9a81"></script>
-<script src="https://www.i-alarmsysteme.at/sites/all/themes/rm_theme/js/skiplinks.js?ps9a81"></script>
-<script src="https://www.i-alarmsysteme.at/sites/all/themes/i-alarmsysteme/js/script.js?ps9a81"></script>
-<script src="https://www.i-alarmsysteme.at/sites/all/modules/contrib/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
-<script src="https://www.i-alarmsysteme.at/sites/default/files/languages/at_x_uUzysngnEbErVVjacQOpfuwAHOoWnLVDgV0tWVhco.js?ps9a81"></script>
-<script src="https://www.i-alarmsysteme.at/sites/all/libraries/colorbox/jquery.colorbox-min.js?ps9a81"></script>
-<script src="https://www.i-alarmsysteme.at/sites/all/modules/contrib/colorbox/js/colorbox.js?ps9a81"></script>
-<script src="https://www.i-alarmsysteme.at/sites/all/modules/contrib/colorbox/styles/default/colorbox_style.js?ps9a81"></script>
+  <script src="https://www.i-alarmsysteme.de/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script src="https://www.i-alarmsysteme.de/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.i-alarmsysteme.de/misc/drupal.js?ps9a81"></script>
+<script src="https://www.i-alarmsysteme.de/sites/all/themes/rm_theme/js/console.js?ps9a81"></script>
+<script src="https://www.i-alarmsysteme.de/sites/all/libraries/rc/jquery.rc.js?ps9a81"></script>
+<script src="https://www.i-alarmsysteme.de/sites/all/themes/i-alarmsysteme/js/config.js?ps9a81"></script>
+<script src="https://www.i-alarmsysteme.de/sites/all/themes/rm_theme/js/menu.js?ps9a81"></script>
+<script src="https://www.i-alarmsysteme.de/sites/all/themes/rm_theme/js/skiplinks.js?ps9a81"></script>
+<script src="https://www.i-alarmsysteme.de/sites/all/themes/i-alarmsysteme/js/script.js?ps9a81"></script>
+<script src="https://www.i-alarmsysteme.de/sites/all/modules/contrib/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script src="https://www.i-alarmsysteme.de/sites/default/files/languages/at_x_uUzysngnEbErVVjacQOpfuwAHOoWnLVDgV0tWVhco.js?ps9a81"></script>
+<script src="https://www.i-alarmsysteme.de/sites/all/libraries/colorbox/jquery.colorbox-min.js?ps9a81"></script>
+<script src="https://www.i-alarmsysteme.de/sites/all/modules/contrib/colorbox/js/colorbox.js?ps9a81"></script>
+<script src="https://www.i-alarmsysteme.de/sites/all/modules/contrib/colorbox/styles/default/colorbox_style.js?ps9a81"></script>
 <script>var eu_cookie_compliance_cookie_name = "";</script>
-<script src="https://www.i-alarmsysteme.at/sites/all/modules/eu_cookie_compliance/js/eu_cookie_compliance.js?ps9a81"></script>
-<script src="https://www.i-alarmsysteme.at/sites/all/modules/google_analytics/googleanalytics.js?ps9a81"></script>
-<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.i-alarmsysteme.at/sites/default/files/googleanalytics/analytics.js?ps9a81","ga");ga("create", "UA-75490144-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script src="https://www.i-alarmsysteme.at/sites/all/modules/contrib/field_group/field_group.js?ps9a81"></script>
-<script src="https://www.i-alarmsysteme.at/misc/tableheader.js?ps9a81"></script>
-<script src="https://www.i-alarmsysteme.at/sites/all/themes/i-alarmsysteme/js/TsLensCalc.js?ps9a81"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"i_alarmsysteme","theme_token":"pX70Lfw3YWesbg3J2zuSSDbdmLpxJxIW9MNz8l6x6ks"},"colorbox":{"transition":"elastic","speed":350,"opacity":"0.85","slideshow":false,"slideshowAuto":true,"slideshowSpeed":2500,"slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"90%","maxHeight":"90%","initialWidth":"300","initialHeight":"250","fixed":true,"scrolling":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"rm_i_alarmsysteme":{"slideshow_speed":"3000"},"better_exposed_filters":{"views":{"locations":{"displays":{"block_1":{"filters":[]},"block_2":{"filters":[]}}}}},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_scrolling_confirmation":0,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWir verwenden Cookies auf dieser Website, um Ihre Nutzererfahrung zu verbessern\u003C\/h2\u003E\u003Cp\u003EWenn Sie auf einen Link auf dieser Seite klicken, stimmen Sie zu, Cookies zu setzen.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EOk, ich stimme zu\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003ENein, gib mir mehr Informationen\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EOk, ich stimme zu\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003ENein, gib mir mehr Informationen\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","mobile_breakpoint":"768","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EAusblenden\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/impressum-datenschutz-0","popup_link_new_window":1,"popup_position":null,"popup_language":"at","better_support_for_screen_readers":0,"reload_page":0,"domain":"","popup_eu_only_js":0,"cookie_lifetime":"100","disagree_do_not_show_popup":0},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"slideshow_flexslider":{"path":"node\/828"},"field_group":{"div":"default"}});</script>
+<script src="https://www.i-alarmsysteme.de/sites/all/modules/eu_cookie_compliance/js/eu_cookie_compliance.js?ps9a81"></script>
+<script src="https://www.i-alarmsysteme.de/sites/all/modules/google_analytics/googleanalytics.js?ps9a81"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.i-alarmsysteme.de/sites/default/files/googleanalytics/analytics.js?ps9a81","ga");ga("create", "UA-75490144-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script src="https://www.i-alarmsysteme.de/sites/all/modules/contrib/field_group/field_group.js?ps9a81"></script>
+<script src="https://www.i-alarmsysteme.de/misc/tableheader.js?ps9a81"></script>
+<script src="https://www.i-alarmsysteme.de/sites/all/themes/i-alarmsysteme/js/TsLensCalc.js?ps9a81"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"i_alarmsysteme","theme_token":"8FxOxiF98O7fDt58c1f3wLsqRksQBXXJ5CxVuR4Np7w"},"colorbox":{"transition":"elastic","speed":350,"opacity":"0.85","slideshow":false,"slideshowAuto":true,"slideshowSpeed":2500,"slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"90%","maxHeight":"90%","initialWidth":"300","initialHeight":"250","fixed":true,"scrolling":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"rm_i_alarmsysteme":{"slideshow_speed":"3000"},"better_exposed_filters":{"views":{"locations":{"displays":{"block_1":{"filters":[]},"block_2":{"filters":[]}}}}},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_scrolling_confirmation":0,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWir verwenden Cookies auf dieser Website, um Ihre Nutzererfahrung zu verbessern\u003C\/h2\u003E\u003Cp\u003EWenn Sie auf einen Link auf dieser Seite klicken, stimmen Sie zu, Cookies zu setzen.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EOk, ich stimme zu\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003ENein, gib mir mehr Informationen\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EOk, ich stimme zu\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003ENein, gib mir mehr Informationen\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","mobile_breakpoint":"768","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EAusblenden\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/impressum-datenschutz-0","popup_link_new_window":1,"popup_position":null,"popup_language":"at","better_support_for_screen_readers":0,"reload_page":0,"domain":"","popup_eu_only_js":0,"cookie_lifetime":"100","disagree_do_not_show_popup":0},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"slideshow_flexslider":{"path":"node\/828"},"field_group":{"div":"default"}});</script>
   </body>
 </html>

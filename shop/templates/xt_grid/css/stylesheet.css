@@ -1877,7 +1877,6 @@ radio {
     #mobile_link {
     	display: none;
     }
-    
 }
 /* -------------------------------------------------------------------------------------- */
 
@@ -1915,7 +1914,7 @@ radio {
 }
 
 #topmenu {
-	margin-bottom: 7px;
+	/*margin-bottom: 7px;*/
   margin-top: -7px;
 }
 
